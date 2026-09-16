@@ -1,0 +1,6 @@
+{
+  "name": "Nowshera Events Co.",
+  "description": "A modern event registration system for workshops, seminars, and community events in Nowshera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
